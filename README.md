@@ -8,7 +8,7 @@ A conversational AI agent that delivers real-time **weather conditions**, **air 
 
 ## Demo
 
-![City Intelligence Screenshot](assets/demo.png)
+![City Intelligence Screenshot](City Intelligence_page-0001.jpg)
 
 ---
 
